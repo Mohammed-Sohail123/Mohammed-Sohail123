@@ -1,264 +1,95 @@
-# Hi 👋, I'm Mohammed Sohail
+<h1 align="center">Hi 👋, I'm Mohammed Sohail</h1>
 
 <h3 align="center">Full Stack Software Engineer | React.js | Node.js | TypeScript | Flutter</h3>
 
 <p align="center">
-Building scalable web and mobile applications with modern technologies.
+Building scalable Web & Mobile Applications 🚀
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammed-sohail-sohail-34b248286">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sohail1805120793@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Mohammed-Sohail123&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Software Engineer at **Atmez AI Solutions**
-- 🚀 2+ years of professional experience
-- 🌍 Open to opportunities in **UAE, Saudi Arabia, Qatar & GCC**
-- 💻 Passionate about building scalable enterprise applications
-- 📱 Published Flutter application with **30,000+ Downloads**
-- ⚡ Love solving real-world business problems using technology
-
----
-
-## 🚀 Current Focus
-
-- Full Stack Development
-- React.js & Next.js
-- Node.js & Express
-- TypeScript
-- Flutter
-- System Design
-- Cloud Deployment
-- REST APIs
+| | |
+|:---|:---|
+| 💼 **Current Role** | Software Engineer @ Atmez AI Solutions |
+| 🚀 **Experience** | 2+ Years |
+| 🌍 **Open To** | UAE • Saudi Arabia • Qatar • GCC |
+| 📱 **Achievement** | Flutter App with 30K+ Downloads |
+| 💡 **Specialization** | Full Stack Development |
+| ⚡ **Focus** | Scalable Enterprise Applications |
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+<p align="center">
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Bootstrap
-- Redux Toolkit
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,flutter,dart,tailwind,bootstrap,redux,express,django,spring,mongodb,mysql,postgres,firebase,docker,aws,git,github,postman,redis,vscode"/>
 
-### Backend
-
-- Node.js
-- Express.js
-- Django
-- Spring Boot
-- REST APIs
-
-### Mobile
-
-- Flutter
-- Dart
-- Firebase
-
-### Database
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- Firebase
-
-### DevOps
-
-- Docker
-- AWS
-- Vercel
-- Render
-- Hostinger
-- GitHub Actions
-
-### Tools
-
-- Git
-- GitHub
-- Postman
-- Redis
-- JWT
-- SMTP
-- WebSocket
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📈 Atruha Finance
-
-Production-grade Financial Analytics Platform
-
-### Features
-
-- Real-time Stock Tracking
-- Portfolio Management
-- Interactive Dashboards
-- Redux Toolkit
-- REST APIs
-- Role Based Authentication
-
-Tech
-
-React.js • Node.js • MySQL • Tailwind CSS
+| Project | Tech |
+|---------|------|
+| 📈 **Atruha Finance** | React • Node.js • Redux • MySQL |
+| 👨‍💼 **StaffWise** | React • Node.js • MySQL |
+| 🎓 **Acadlync** | React • TypeScript • PostgreSQL |
+| 📱 **Islamic Hijri Calendar** | Flutter • Firebase |
 
 ---
 
-## 👨‍💼 StaffWise
+# 📊 GitHub Stats
 
-Enterprise Staff Management System
+<p align="center">
 
-### Features
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Sohail123&show_icons=true&theme=github_dark&hide_border=true"/>
 
-- Employee Management
-- Payroll
-- Attendance
-- Analytics
-- PDF Reports
-- JWT Authentication
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Sohail123&layout=compact&theme=github_dark&hide_border=true"/>
 
-Tech
-
-React.js • Node.js • MySQL
+</p>
 
 ---
 
-## 🎓 Acadlync
+# 🔥 GitHub Streak
 
-Academic ERP Platform
+<p align="center">
 
-### Features
+<img src="https://streak-stats.demolab.com?user=Mohammed-Sohail123&theme=github-dark&hide_border=true"/>
 
-- Student Management
-- Teacher Portal
-- Timetable
-- Grade Tracking
-- Analytics Dashboard
-
-Tech
-
-React.js • TypeScript • PostgreSQL
+</p>
 
 ---
 
-## 🏢 Employee Management System
+# 🤝 Connect With Me
 
-Enterprise HR Platform
+<p align="center">
 
-### Features
+<a href="mailto:sohail1805120793@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-- Employee Profiles
-- Leave Management
-- Attendance
-- Admin Dashboard
-- Reports
+<a href="https://www.linkedin.com/in/mohammed-sohail-sohail-34b248286">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-Tech
+<a href="https://github.com/Mohammed-Sohail123">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-React.js • TypeScript • MySQL
-
----
-
-## 🛒 E-Commerce Platform
-
-Modern Full Stack E-Commerce
-
-### Features
-
-- Shopping Cart
-- Payments
-- Inventory
-- Wishlist
-- Admin Panel
-- Redis Cache
-
-Tech
-
-React.js • Node.js • MySQL
-
----
-
-## 📱 Islamic Hijri Calendar
-
-Cross Platform Flutter Application
-
-Achievements
-
-- Google Play Store
-- Apple App Store
-- 30,000+ Downloads
-- Firebase Authentication
-- Push Notifications
-
-Tech
-
-Flutter • Firebase • Riverpod • Hive
-
----
-
-# 🏆 Professional Highlights
-
-✔ 2+ Years Professional Experience
-
-✔ 6+ Production Applications Delivered
-
-✔ 30,000+ Mobile App Downloads
-
-✔ Improved API Performance by 40%
-
-✔ Reduced Page Load Time by 35%
-
-✔ Built Enterprise Solutions for Finance, HR, Education & E-Commerce
-
-✔ Strong Experience in Agile/Scrum Development
-
----
-
-# 💡 Technical Skills
-
-Frontend
-
-React.js • Next.js • TypeScript • JavaScript • Tailwind CSS
-
-Backend
-
-Node.js • Express • Django • Spring Boot
-
-Database
-
-MongoDB • MySQL • PostgreSQL
-
-Cloud
-
-AWS • Docker • Vercel • Render
-
-Mobile
-
-Flutter • Firebase
-
----
-
-# 🌐 Connect With Me
-
-📧 Email
-
-sohail1805120793@gmail.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/mohammed-sohail-sohail-34b248286
-
-💻 GitHub
-
-https://github.com/Mohammed-Sohail123
-
----
-
-# 🎯 Career Objective
-
-I am a Full Stack Software Engineer passionate about building scalable web and mobile applications that solve real business problems. I enjoy collaborating with cross-functional teams, designing clean architectures, and continuously learning modern technologies. Currently seeking opportunities where I can contribute my expertise while growing as a software engineer.
-
-⭐ Thanks for visiting my profile!
+</p>
