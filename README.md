@@ -88,27 +88,6 @@ Building scalable Web & Mobile Applications 🚀
 
 **Flutter • Firebase**
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Sohail123&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Sohail123&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Sohail123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
-</p>
-
----
 
 # 🤝 Connect With Me
 
@@ -127,3 +106,10 @@ Building scalable Web & Mobile Applications 🚀
 </a>
 
 </p>
+---
+
+# 🎯 Career Objective
+
+I am a Full Stack Software Engineer passionate about building scalable web and mobile applications that solve real business problems. I enjoy collaborating with cross-functional teams, designing clean architectures, and continuously learning modern technologies. Currently seeking opportunities where I can contribute my expertise while growing as a software engineer.
+
+⭐ Thanks for visiting my profile!
