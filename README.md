@@ -106,7 +106,7 @@ Building scalable Web & Mobile Applications 🚀
 </a>
 
 </p>
----
+
 
 # 🎯 Career Objective
 
