@@ -37,7 +37,7 @@ Building scalable Web & Mobile Applications 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,flutter,dart,tailwind,bootstrap,redux,express,django,spring,mongodb,mysql,postgres,firebase,docker,aws,git,github,postman,redis,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,java,python,flutter,dart,tailwind,bootstrap,redux,express,django,spring,mongodb,mysql,postgres,firebase,docker,aws,git,github,postman,redis,vscode"/>
 
 </p>
 
