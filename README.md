@@ -19,7 +19,7 @@ Building scalable Web & Mobile Applications 🚀
 
 ---
 
-# ## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🚀 Full Stack Software Engineer with **2+ years** of experience building scalable web and mobile applications.
 
@@ -29,7 +29,7 @@ Building scalable Web & Mobile Applications 🚀
 
 📱 Published a Flutter application with **30,000+ downloads**.
 
-🌍 Open to relocation and opportunities across **UAE, Saudi Arabia, Qatar & GCC**.
+🌍 Open to relocation and opportunities across **UAE, Saudi Arabia, Qatar & Worldwide**.
 
 ---
 
