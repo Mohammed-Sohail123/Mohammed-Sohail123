@@ -15,21 +15,21 @@ Building scalable Web & Mobile Applications 🚀
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Mohammed-Sohail123&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# ## 👨‍💻 About Me
 
-| | |
-|:---|:---|
-| 💼 **Current Role** | Software Engineer @ Atmez AI Solutions |
-| 🚀 **Experience** | 2+ Years |
-| 🌍 **Open To** | UAE • Saudi Arabia • Qatar • GCC |
-| 📱 **Achievement** | Flutter App with 30K+ Downloads |
-| 💡 **Specialization** | Full Stack Development |
-| ⚡ **Focus** | Scalable Enterprise Applications |
+🚀 Full Stack Software Engineer with **2+ years** of experience building scalable web and mobile applications.
+
+💼 Currently working at **Atmez AI Solutions**.
+
+💻 Specialized in **React.js, Next.js, Node.js, TypeScript, Flutter, REST APIs, and Cloud Technologies**.
+
+📱 Published a Flutter application with **30,000+ downloads**.
+
+🌍 Open to relocation and opportunities across **UAE, Saudi Arabia, Qatar & GCC**.
 
 ---
 
@@ -43,14 +43,50 @@ Building scalable Web & Mobile Applications 🚀
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 📈 **Atruha Finance** | React • Node.js • Redux • MySQL |
-| 👨‍💼 **StaffWise** | React • Node.js • MySQL |
-| 🎓 **Acadlync** | React • TypeScript • PostgreSQL |
-| 📱 **Islamic Hijri Calendar** | Flutter • Firebase |
+### 📈 Atruha Finance
+> Production-grade Financial Analytics Platform
+
+- 📊 Real-time Stock Tracking
+- 💼 Portfolio Management
+- 🔐 Secure Authentication
+
+**React.js • Node.js • Redux • MySQL**
+
+---
+
+### 👨‍💼 StaffWise
+> Enterprise HR & Payroll Solution
+
+- 👨 Employee Management
+- 💰 Payroll Processing
+- 📈 Analytics Dashboard
+
+**React.js • Node.js • MySQL**
+
+---
+
+### 🎓 Acadlync
+> Academic ERP Platform
+
+- 🎓 Student Information System
+- 👨‍🏫 Faculty Management
+- 📅 Attendance & Reporting
+
+**React.js • PostgreSQL**
+
+---
+
+### 📱 Islamic Hijri Calendar
+
+> Flutter Mobile Application
+
+- 📲 Google Play & App Store
+- ⭐ 30,000+ Downloads
+- 🔔 Push Notifications
+
+**Flutter • Firebase**
 
 ---
 
@@ -66,12 +102,10 @@ Building scalable Web & Mobile Applications 🚀
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mohammed-Sohail123&theme=github-dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Sohail123&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
 </p>
 
 ---
